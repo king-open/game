@@ -14,7 +14,10 @@ _✨ 一个用Python编写的经典2048游戏 ✨_
 
 ## 📸 游戏截图
 
-![2048游戏截图](screenshot.png)
+<img width="609" alt="截屏2024-11-21 19 51 20" src="https://github.com/user-attachments/assets/08a4a8fc-415e-4b62-845a-466c03b95a52">
+
+
+
 
 ## ⭐️ 主要特性
 
