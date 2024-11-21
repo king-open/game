@@ -36,7 +36,7 @@ _✨ 一个用Python编写的经典2048游戏 ✨_
 *  **克隆项目**
 
 ```bash
-git clone https://github.com/your-username/2048-game.git
+gcl git@github.com:king-open/game.git 
  
 cd game
 ```
